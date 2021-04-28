@@ -182,7 +182,7 @@ td.expense {
   visibility: hidden
 }
 .modal-overlay.active {
-  opacity: 1;
+  opacity: 1,
   visibility : visible;
 }
 .modal{
